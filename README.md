@@ -2,7 +2,7 @@
 
 **Python backend developer (9+ years)** — Django, FastAPI, APIs and system integrations. Building with AI agents.
 
-At Bonnier Business Polska I work on backend products in a small team without a PO or QA: authentication (JWT, SMS-based MFA), partner statistics, invoicing and a product API for publishers. I clarify requirements with the business, write tests, review code and deploy my own changes (Docker, Kubernetes, Helm, ArgoCD). I also built an LLM + RAG article generator used by editors.
+At Bonnier Business Polska I work on backend products in a small team without a PO or QA: authentication (JWT, SMS-based MFA), partner statistics, a public product catalog and a product API for publishers. I clarify requirements with the business, write tests, review code and deploy my own changes (Helm, ArgoCD). I also built an LLM + RAG article generator used by editors.
 
 ### 🛠️ Stack
 
